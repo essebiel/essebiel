@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="C:\Users\gabriel.osilva_frete\Downloads" width="100%" style="border-radius: 10px; border: 2px solid #00f2ea;">
-  <br><br>
+<img src="./choso-tech.png" width="100%" style="border-radius: 10px; border: 2px solid #00f2ea;">  <br><br>
   
   <h1 style="color: #00f2ea;">⚡ Gabriel Oliveira | Dev & Tech Enthusiast</h1>
   
