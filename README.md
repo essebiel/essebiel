@@ -17,11 +17,4 @@
   
   <br><br>
   
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=essebiel&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f2ea&icon_color=00f2ea&text_color=c9d1d9" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=essebiel&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f2ea&text_color=c9d1d9" />
-  </div>
-  
-  <br>
-  
-  </div>
+
